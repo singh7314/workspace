@@ -1,0 +1,70 @@
+[
+  {
+    "vehicle_id": 1,
+    "vehicle_current_location": [18.6054936436515, 73.76237869262697],
+    "vehicle_status": "available",
+    "vehicle_type": {
+      "color": "pink",
+      "model": "ats",
+      "brand": "bmw"
+    },
+    "driver_details": {
+      "name": "abc",
+      "contact_number": "123"
+    },
+    "trip_info": {
+      "completed": 454
+    }
+  },
+  {
+    "vehicle_id": 2,
+    "vehicle_current_location": [18.60433447359875, 73.76186370849611],
+    "vehicle_status": "unavailable",
+    "vehicle_type": {
+      "color": "white",
+      "model": "ats",
+      "brand": "bmw"
+    },
+    "driver_details": {
+      "name": "abc",
+      "contact_number": "123"
+    },
+    "trip_info": {
+      "completed": 454
+    }
+  },
+  {
+    "vehicle_id": 3,
+    "vehicle_current_location": [18.605351289859726, 73.75791549682619],
+    "vehicle_status": "available",
+    "vehicle_type": {
+      "color": "pink",
+      "model": "ats",
+      "brand": "bmw"
+    },
+    "driver_details": {
+      "name": "abc",
+      "contact_number": "123"
+    },
+    "trip_info": {
+      "completed": 454
+    }
+  },
+  {
+    "vehicle_id": 4,
+    "vehicle_current_location": [18.604619182764147, 73.75750780105592],
+    "vehicle_status": "available",
+    "vehicle_type": {
+      "color": "blue",
+      "model": "ats",
+      "brand": "bmw"
+    },
+    "driver_details": {
+      "name": "abc",
+      "contact_number": "123"
+    },
+    "trip_info": {
+      "completed": 454
+    }
+  }
+]
